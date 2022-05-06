@@ -10,7 +10,7 @@ function App() {
         <footer>
           Project coded by{" "}
           <a
-            href="#"
+            href="https://www.linkedin.com/in/chiara-alicata-9b0529177/"
             target="_blank"
             title="visit Chiara´s coding portfolio"
             rel="noopener noreferrer"
@@ -19,7 +19,7 @@ function App() {
           </a>{" "}
           and this is{" "}
           <a
-            href="#"
+            href="https://github.com/chiaraalicata/weather-react"
             title="open-source link"
             target="_blank"
             rel="noopener noreferrer"
