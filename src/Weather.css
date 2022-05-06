@@ -2,9 +2,9 @@
   padding: 16px;
   border-radius: 4px;
   font-family: Arial, Helvetica, sans-serif;
-  border: 1px solid #dadde1;
-  color: rgb(135, 135, 135);
-  box-shadow: 5px 5px 5px rgb(210, 207, 191);
+  border: 1px solid #48cafd;
+  color: rgb(70, 90, 116);
+  box-shadow: 5px 5px 5px rgb(13, 43, 207);
 }
 
 .Weather h1 {
